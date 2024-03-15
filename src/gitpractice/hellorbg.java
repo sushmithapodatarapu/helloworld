@@ -1,9 +1,9 @@
 package gitpractice;
 
-public class HelloWorld {
+public class hellorbg {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	 System.out.println("hii");
 
 	}
 
